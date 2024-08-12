@@ -32,12 +32,17 @@ Unfortunately, I wasn't able to implement any tests, which is quite disappointin
 
 To improve the performance of the tree structure, I would explore libraries like [react-window](https://github.com/bvaughn/react-window). This would help in rendering a large number of elements more efficiently. Some decisions were made with the concern of not overwhelming Apex Unit, but with more time, I would refine these aspects to enhance overall performance and usability.
 
+# 🎥 Demonstration #
+### Apply filters
+https://github.com/user-attachments/assets/7846eda7-1b13-42ed-9403-230325eded40
+
+
 
 
 # 🎬 Getting started #
 **Clone the project and access the folder**
 ~~~
-$ git clone git@github.com:Thirki/asset-tree.git
+$ git clone git@github.com:Thirki/tractian-asset-tree.git
 ~~~
 **Follow the steps below**
 ~~~
