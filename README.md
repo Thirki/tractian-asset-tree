@@ -44,6 +44,10 @@ https://github.com/user-attachments/assets/7846eda7-1b13-42ed-9403-230325eded40
 ~~~
 $ git clone git@github.com:Thirki/tractian-asset-tree.git
 ~~~
+
+**Requirements**
+- [Node.js](https://nodejs.org/) >= 18 (recommended: 20 LTS)
+
 **Follow the steps below**
 ~~~
 # Install the dependencies
